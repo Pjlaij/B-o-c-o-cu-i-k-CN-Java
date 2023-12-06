@@ -1,2 +1,6 @@
 # BCCK_CNJAVA
-Import the neon.sql, remember to create a new database named "neon"
+Import vào MySql file neon.sql, trước khi import hãy tạo một database tên neon
+
+Chạy bằng jdk8
+
+
